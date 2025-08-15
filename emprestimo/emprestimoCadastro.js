@@ -1,6 +1,6 @@
 "use strict";
 
-const API_URL = "http://localhost:3000";
+const API_URL = "http://localhost:3333";
 
 document.addEventListener("DOMContentLoaded", async () => {
   const params = new URLSearchParams(window.location.search);
