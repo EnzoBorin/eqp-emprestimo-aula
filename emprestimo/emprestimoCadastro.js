@@ -1,7 +1,7 @@
 "use strict";
 
 //const API_URL = "http://localhost:3000";
-const API_URL = "https://backend-equip-aula.onrender.com";
+const API_URL = "https://github.com/EnzoBorin/empre-equip-didadico-aula.git";
 
 document.addEventListener("DOMContentLoaded", async () => {
   const params = new URLSearchParams(window.location.search);
